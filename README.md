@@ -14,7 +14,10 @@ The Psychometric plots break down into 3 categories
 NOTE: The Expected value is the Left Stimulu Probability minus the Right Stimulu Probability. <br>
 NOTE: Each category has plots for 2 blocks (WIN/LOSS) and for both Raw data and Averaged data
 
-### Psychometric 
+#### Psychometric markdown
+The Markdown file will plot the same plots as the psychometric_plots.R file, except instead of ploting everything together
+onto one plot the markdown file will plot an individual plot for each participant. This makes it easier when explor the data for outliers 
+
 #### Fixation Plots
 
 
