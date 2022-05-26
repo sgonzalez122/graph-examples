@@ -19,6 +19,9 @@ The Markdown file will plot the same plots as the psychometric_plots.R file, exc
 onto one plot the markdown file will plot an individual plot for each participant. This makes it easier when explor the data for outliers 
 
 #### Fixation Plots
-
+- First Fix Duration: Plots the duration of the first fixation for the best and worst choice options for both the WIN and LOSS Blocks
+- Fixation Duration: Plots the durationof the First and Last Fixation duration for both the WIN and LOSS Blocks
+- Net Fix Duration: Plots the Net Fixation Duration for the Left and Right stimulus for each expected value for both blocks
+- Probability First Fix Best: Plots the Probability that the first fixation is the best option for the best and worst choice options for both blocks. 
 
 #### Average Correct Choice Plots
