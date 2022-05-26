@@ -25,3 +25,5 @@ onto one plot the markdown file will plot an individual plot for each participan
 - Probability First Fix Best: Plots the Probability that the first fixation is the best option for the best and worst choice options for both blocks. 
 
 #### Average Correct Choice Plots
+- These plots just plot the average correct and incorrect choices made for each block. 
+- To meet quality control criteria, participants must make above, significantly, 50% correct choices to be included in the study. This is checked in another processing script, but can be visualized here in these plots. 
